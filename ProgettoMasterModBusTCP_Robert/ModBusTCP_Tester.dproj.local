@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/02 10:39:38.000.109,=C:\Users\Utente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/02 10:40:23.000.451,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\Unit1.dfm=C:\Users\Utente\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/02 10:40:23.000.451,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\Unit1.pas=C:\Users\Utente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/02 10:40:26.000.266,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\Project1.dproj=C:\Users\Utente\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.457,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusUtils.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.363,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusSplash.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.300,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusConsts.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.394,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusStrConsts.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.425,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusTypes.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.285,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\IdModbusServer.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.347,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusReg.pas</Transaction>
+    <Transaction>2023/05/02 10:46:12.000.238,=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\IdModbusClient.pas</Transaction>
+    <Transaction>2023/05/02 10:58:04.000.398,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusReg.pas=</Transaction>
+    <Transaction>2023/05/02 10:58:21.000.492,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModBusTCP_Tester.dproj=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\Project1.dproj</Transaction>
+    <Transaction>2023/05/02 10:58:42.000.403,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\ModbusSplash.pas=</Transaction>
+    <Transaction>2023/05/02 10:58:59.000.267,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\UnTestModBus.dfm=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\Unit1.dfm</Transaction>
+    <Transaction>2023/05/02 10:58:59.000.267,D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\UnTestModBus.pas=D:\Progetti\SCM\Anno_2023_SCM_Group\ArduinoOpta\ProgettoMasterModBusTCP_Robert\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
