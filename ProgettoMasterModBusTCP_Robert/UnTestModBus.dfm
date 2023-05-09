@@ -19,9 +19,9 @@ object Form1: TForm1
     Top = 32
     Width = 297
     Height = 23
-    EditLabel.Width = 55
+    EditLabel.Width = 142
     EditLabel.Height = 15
-    EditLabel.Caption = 'edIP_Slave'
+    EditLabel.Caption = 'Modbus Slave IPv4 address'
     TabOrder = 0
     Text = '192.168.1.232'
   end
@@ -39,7 +39,7 @@ object Form1: TForm1
     Top = 80
     Width = 75
     Height = 25
-    Caption = 'Leggi Coils'
+    Caption = 'Read Coils'
     Enabled = False
     TabOrder = 2
     OnClick = btnReadCoilsClick
@@ -49,7 +49,7 @@ object Form1: TForm1
     Top = 80
     Width = 75
     Height = 25
-    Caption = 'Scrivi Coils'
+    Caption = 'Write Coils'
     Enabled = False
     TabOrder = 3
     OnClick = btnWriteCoilsClick
@@ -96,7 +96,7 @@ object Form1: TForm1
     Top = 80
     Width = 75
     Height = 25
-    Caption = 'Leggi Inputs'
+    Caption = 'Read Inputs'
     Enabled = False
     TabOrder = 6
     OnClick = btnReadDiscreteInputsClick
@@ -114,9 +114,9 @@ object Form1: TForm1
   object ckAutomatico: TCheckBox
     Left = 488
     Top = 84
-    Width = 97
+    Width = 145
     Height = 17
-    Caption = 'Automatico'
+    Caption = 'Automatic Polling'
     TabOrder = 8
     OnClick = ckAutomaticoClick
   end
@@ -153,7 +153,7 @@ object Form1: TForm1
     Top = 384
     Width = 75
     Height = 25
-    Caption = 'Leggi Reg.'
+    Caption = 'Read Reg.'
     Enabled = False
     TabOrder = 11
     OnClick = btnLeggiRegisterClick
@@ -163,7 +163,7 @@ object Form1: TForm1
     Top = 384
     Width = 75
     Height = 25
-    Caption = 'Scrivi Reg.'
+    Caption = 'Write Reg.'
     Enabled = False
     TabOrder = 12
     OnClick = btnScriviRegisterClick
